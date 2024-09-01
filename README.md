@@ -1,4 +1,5 @@
 # Flask Course Session 8 - Machine Learning Project
+# pip freeze                - all packege
 
 ## Overview
 
